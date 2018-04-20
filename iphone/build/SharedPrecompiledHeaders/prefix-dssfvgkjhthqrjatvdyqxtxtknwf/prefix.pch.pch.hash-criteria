@@ -1,0 +1,23 @@
+-x
+objective-c
+-arch
+armv7
+-std=c99
+-fpascal-strings
+-O0
+-DDEBUG_OBJC=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk
+-miphoneos-version-min=3.1
+-g
+-fembed-bitcode-marker
+-I/Users/james.folk/Library/Developer/Xcode/DerivedData/zbar-bcztlbfjevvxnnaxuwjkzsufqlew/Build/Products/Debug-iphoneos/include
+-Iinclude
+-I../include
+-I../zbar
+-F/Users/james.folk/Library/Developer/Xcode/DerivedData/zbar-bcztlbfjevvxnnaxuwjkzsufqlew/Build/Products/Debug-iphoneos
+arm-apple-darwin17.5.0
+"4.2.1 Compatible Apple LLVM 9.1.0 (clang-902.0.39.1)"
+SDK_PRODUCT_BUILD_VERSION=15E217
+15E217
